@@ -13,7 +13,10 @@ parts
 sdist
 develop-eggs
 .installed.cfg
+.project
+.pydevproject
 *~
+.settings
 # Installer logs
 pip-log.txt
 
